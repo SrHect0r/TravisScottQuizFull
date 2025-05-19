@@ -1,0 +1,46 @@
+álbumes:¿Cuál es el nombre del primer mixtape de Travis Scott?;Owl Pharaoh;Rodeo;Astroworld;Days Before Rodeo;0
+álbumes:¿Qué álbum contiene el tema "Stargazing"?;Astroworld;Rodeo;Utopia;Jackboys;0
+álbumes:¿Qué álbum fue lanzado en 2023?;Utopia;Astroworld;Rodeo;Jackboys;0
+álbumes:¿Qué álbum de Travis Scott fue lanzado en 2015?;Rodeo;Astroworld;Utopia;Huncho Jack, Jack Huncho;0
+álbumes:¿En qué álbum aparece la canción "Goosebumps"?;Birds in the Trap Sing McKnight;Astroworld;Rodeo;Utopia;0
+álbumes:¿Qué álbum tiene como portada un parque de diversiones?;Astroworld;Rodeo;Jackboys;Days Before Rodeo;0
+álbumes:¿Cuál de estos álbumes es una colaboración con Quavo?;Huncho Jack, Jack Huncho;Jackboys;Owl Pharaoh;Utopia;0
+álbumes:¿Qué álbum incluye la canción "FE!N"?;Utopia;Astroworld;Birds in the Trap;Rodeo;0
+álbumes:¿Cuál es el álbum más experimental de Travis Scott según los críticos?;Utopia;Rodeo;Jackboys;Astroworld;0
+álbumes:¿Qué álbum fue producido junto a Mike Dean?;Astroworld;Rodeo;Huncho Jack, Jack Huncho;Utopia;0
+
+
+colaboraciones:¿Con qué artista lanzó el tema"Pick Up the Phone"?;Young Thug;Kanye West;Drake;Future;0
+colaboraciones:¿Con qué artista colaboró en"Fair Trade"?;Drake;Lil Baby;21 Savage;Don Toliver;0
+colaboraciones:¿Quién aparece en el tema"Mafia"?;J. Cole;Kendrick Lamar;Future;Post Malone;0
+colaboraciones:¿Con qué artista lanzó"Franchise"?;Young Thug;Drake;Post Malone;SZA;0
+colaboraciones:¿Quién colabora en"Sicko Mode"?;Drake;21 Savage;Future;The Weeknd;0
+colaboraciones:¿Con quién lanzó"Praise God"?;Kanye West;Lil Uzi Vert;Baby Keem;Trippie Redd;0
+colaboraciones:¿En qué tema participa Rosalía?;Highest in the Room (Remix);Mafia;Pick Up the Phone;Franchise;0
+colaboraciones:¿Con qué productor trabaja frecuentemente?;Mike Dean;Timbaland;Pharrell;Dr. Dre;0
+colaboraciones:¿Qué artista participa en "STOP TRYING TO BE GOD"?;James Blake;Drake;Travis Barker;Kanye West;0
+colaboraciones:¿En qué canción colabora The Weeknd?;Wake Up;Sicko Mode;Mafia;Franchise;0
+
+
+vida personal:¿Cuál es el nombre real de Travis Scott?;Jacques Webster;Scott Travis;Michael La Flame;Jacques Lamar;0
+vida personal:¿Con qué celebridad tuvo una hija?;Kylie Jenner;Kim Kardashian;Ariana Grande;Zendaya;0
+vida personal:¿Cómo se llama su hija?;Stormi;True;Blue Ivy;North;0
+vida personal:¿Dónde nació Travis Scott?;Houston;Dallas;Atlanta;Chicago;0
+vida personal:¿Qué carrera estudió brevemente en la universidad?;Arquitectura;Ingeniería;Música;Arte;0
+vida personal:¿Cuál es su apodo?;La Flame;Scotty;Cactus Kid;T-Scott;0
+vida personal:¿Qué instrumento tocaba desde joven?;Piano;Guitarra;Saxofón;Batería;0
+vida personal:¿Qué deporte practicaba en secundaria?;Fútbol americano;Básquetbol;Beisbol;Tenis;0
+vida personal:¿Cuál es su color favorito?;Negro;Rojo;Azul;Verde;0
+vida personal:¿Cuál es su signo zodiacal?;Tauro;Géminis;Leo;Piscis;0
+
+
+canciones:¿Qué canción comienza con “Astro… yeah”?;Sicko Mode;Goosebumps;Antidote;90210;0
+canciones:¿Qué tema incluye a Drake en tres actos?;Sicko Mode;Franchise;Mafia;Goosebumps;0
+canciones:¿Qué canción fue nominada al Grammy en 2019?;Sicko Mode;Goosebumps;Highest in the Room;Antidote;0
+canciones:¿En qué canción colabora The Weeknd y aparece James Blake?;Wake Up;Franchise;Mafia;Stop Trying to Be God;0
+canciones:¿Cuál fue su primer gran éxito viral?;Antidote;90210;Mamacita;Sicko Mode;0
+canciones:¿Qué tema lanza tras su regreso en 2023?;K-POP;FE!N;MODERN JAM;TOPIA TWINS;0
+canciones:¿Qué canción contiene el verso “I get those goosebumps every time”?;Goosebumps;Sicko Mode;Antidote;Mafia;0
+canciones:¿Qué canción tiene una intro hablada por su madre?;STOP TRYING TO BE GOD;Stargazing;Mafia;Circus Maximus;0
+canciones:¿Cuál es la canción más reproducida de Travis en Spotify?;Sicko Mode;Goosebumps;Antidote;Franchise;0
+canciones:¿En qué canción aparece Kid Cudi en "Utopia"?;LOOOVE;FE!N;MODERN JAM;DELRESTO (ECHOES);0

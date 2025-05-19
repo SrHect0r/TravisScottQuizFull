@@ -1,28 +1,29 @@
 package MenuCategorias;
 
-import 
+import Preguntas.Juego;
+
 import javax.swing.*;
 
 public class Categorias {
     private JPanel rootPanel;
-    private JButton albumesButton;
-    private JButton colaboracionesButton;
-    private JButton vidaButton;
-    private JButton cancionesButton;
+    private JButton opcion1Button;
+    private JButton opcion2Button;
+    private JButton opcion3Button;
+    private JButton opcion4Button;
 
     public JPanel getRootPanel() {
         return rootPanel;
     }
 
     public Categorias(JFrame frame, String nombreJugador) {
-        albumesButton.addActionListener(e -> abrirJuego(frame, "albumes", nombreJugador));
-        colaboracionesButton.addActionListener(e -> abrirJuego(frame, "colaboraciones", nombreJugador));
-        vidaButton.addActionListener(e -> abrirJuego(frame, "vida", nombreJugador));
-        cancionesButton.addActionListener(e -> abrirJuego(frame, "canciones", nombreJugador));
+        opcion1Button.addActionListener(e -> iniciarJuego(frame, nombreJugador, "album"));
+        opcion2Button.addActionListener(e -> iniciarJuego(frame, nombreJugador, "collab"));
+        opcion3Button.addActionListener(e -> iniciarJuego(frame, nombreJugador, "vida"));
+        opcion4Button.addActionListener(e -> iniciarJuego(frame, nombreJugador, "canciones"));
     }
 
-    private void abrirJuego(JFrame frame, String categoria, String nombreJugador) {
-        frame.setContentPane(new JuegoPreguntas(frame, nombreJugador, categoria).getRootPanel());
+    private void iniciarJuego(JFrame frame, String nombre, String categoria) {
+        frame.setContentPane(new Juego (frame, nombre, categoria).getRootPanel());
         frame.revalidate();
     }
 }
