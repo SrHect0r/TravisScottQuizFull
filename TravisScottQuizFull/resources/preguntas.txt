@@ -1,0 +1,44 @@
+álbumes;¿Cuál es el título del álbum debut de Travis Scott?;Rodeo;Birds in the Trap Sing McKnight;Astroworld;Utopia;0
+álbumes;¿Cuál es el título del álbum "Astroworld"?;Astroworld;Rodeo;Birds in the Trap Sing McKnight;Utopia;0
+álbumes;¿Qué año se lanzó "Birds in the Trap Sing McKnight"?;2016;2015;2017;2018;0
+álbumes;¿Cuál de estos álbumes fue lanzado en 2021?;Utopia;Astroworld;Rodeo;Birds in the Trap Sing McKnight;0
+álbumes;¿Con quién colaboró en "Sicko Mode"?;Drake;Kanye West;Kid Cudi;Frank Ocean;0
+álbumes;¿Cuál es el álbum más vendido de Travis Scott?;Astroworld;Rodeo;Birds in the Trap Sing McKnight;Utopia;0
+álbumes;¿Qué canción de "Astroworld" se volvió viral?;Sicko Mode;Butterfly Effect;No Bystanders;Can't Say;0
+álbumes;¿Qué significa el título "Astroworld"?;Un parque de diversiones;Una galaxia;Un álbum;Un festival;0
+álbumes;¿En qué año lanzó "Rodeo"?;2015;2014;2016;2017;0
+álbumes;¿Cuál es el tema principal de "Birds in the Trap Sing McKnight"?;La vida en Houston;El amor;La fama;La familia;0
+
+colaboraciones;¿Cuál es la colaboración más famosa de Travis Scott?;Sicko Mode;Goosebumps;Franchise;Highest in the Room;0
+colaboraciones;¿Con quién colaboró en "Franchise"?;Drake;Kanye West;Lil Uzi Vert;Post Malone;0
+colaboraciones;¿Cuál de estas canciones es una colaboración?;Sicko Mode;Antidote;Goosebumps;Butterfly Effect;0
+colaboraciones;¿Con quién hizo "Goosebumps"?;Khalid;Travis Scott;Drake;Lil Uzi Vert;0
+colaboraciones;¿Con quién colaboró en "Highest in the Room"?;Rosalía;Swae Lee;Drake;Kanye West;0
+colaboraciones;¿En qué año lanzó "Sicko Mode"?;2018;2017;2016;2019;0
+colaboraciones;¿Con quién hizo "Pick Up the Phone"?;Young Thug;Drake;Kanye West;Lil Uzi Vert;0
+colaboraciones;¿Cuál es el tema de "Franchise"?;La fama;La vida;La familia;La amistad;0
+colaboraciones;¿Con quién colaboró en "Hot"?;Gunna;Lil Baby;Drake;Kanye West;0
+colaboraciones;¿Cuál es el álbum donde aparece "Sicko Mode"?;Astroworld;Rodeo;Birds in the Trap Sing McKnight;Utopia;0
+
+vida personal;¿En qué año nació Travis Scott?;1991;1996;1993;1999;0
+vida personal;¿Cuál es el nombre real de Travis Scott?;Jacques Webster;Travis McDonald;Scott Mescudi;Kanye West;0
+vida personal;¿De dónde es Travis Scott?;Houston;Los Ángeles;Chicago;Nueva York;0
+vida personal;¿Cuál es el nombre de su hija?;Stormi;Chicago;North;True;0
+vida personal;¿Con quién tiene una relación Travis Scott?;Kylie Jenner;Rihanna;Ariana Grande;Selena Gomez;0
+vida personal;¿Qué deporte le gusta a Travis Scott?;Baloncesto;Fútbol;Béisbol;Tenis;0
+vida personal;¿Cuál es su apodo?;La Flama;El Hombre;El Jefe;El Rey;0
+vida personal;¿Con qué marca ha colaborado?;Nike;Adidas;Puma;Reebok;0
+vida personal;¿Qué instrumento toca?;Piano;Guitarra;Batería;Saxofón;0
+vida personal;¿Qué tipo de música hace?;Hip-hop;Rock;Pop;Jazz;0
+
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
+Canciones;
